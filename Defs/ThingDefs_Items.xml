@@ -62,7 +62,7 @@
 				<addictiveness>0.015</addictiveness>
 				<minToleranceToAddict>0.25</minToleranceToAddict>
 				<existingAddictionSeverityOffset>0.20</existingAddictionSeverityOffset>
-				<needLevelOffset>0.9</needLevelOffset>
+				<needLevelOffset>0.7</needLevelOffset>
 				<listOrder>10</listOrder>
 			</li>
 			<li>
@@ -92,8 +92,8 @@
 			<li>
 				<label>warm</label>
 				<statOffsets>
-					<MeleeHitChance>0.05</MeleeHitChance>
-                    
+					<SocialImpact>0.05</SocialImpact>
+                    <painFactor>0.9</painFactor>
 				</statOffsets>		
 
 			</li>
@@ -102,7 +102,7 @@
 				<label>tipsy</label>
 				<statOffsets>
 				<SocialImpact>5</SocialImpact>
-
+                <painFactor>0.9</painFactor>
 				</statOffsets>	
 
 			</li>
@@ -112,7 +112,7 @@
 				
 				<statOffsets>
 					<SocialImpact>5</SocialImpact>
-               
+                    <painFactor>0.9</painFactor>
 				</statOffsets>	
 			</li>
 			<li>
@@ -120,7 +120,7 @@
 				<label>hammered</label>
 				<statOffsets>
 					<SocialImpact>5</SocialImpact>
-
+                    <painFactor>0.9</painFactor>
 				</statOffsets>	
 
 			</li>
@@ -153,8 +153,7 @@
 		<stages>
 			<li>   
 				<statOffsets>
-					<SocialImpact>5</SocialImpact>
-                    
+                    <painFactor>0.9</painFactor>
 				</statOffsets>
 			</li>
 		</stages>
