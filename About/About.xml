@@ -5,7 +5,7 @@
 	<supportedVersions>
 		<li>1.2</li>
 	</supportedVersions>
-	<packageId>Bram.VBre</packageId>
+	<packageId><Bram.Sake</packageId>
 	<modDependencies>
 		<li>
 			<packageId>VanillaExpanded.VBrewE</packageId>
