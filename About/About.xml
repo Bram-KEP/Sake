@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+	<name>Sake!</name>
+	<author>Yea and Bram</author>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>Bram.VBre</packageId>
+	<modDependencies>
+		<li>
+			<packageId>VanillaExpanded.VBrewE</packageId>
+			<displayName>Vanilla Expanded Brewing</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2186560858</steamWorkshopUrl>
+			<downloadUrl>https://github.com/juanosarg/VanillaBrewingExpanded</downloadUrl>
+		</li>
+
+	</modDependencies>
+    	<description>Adds Sake a new alcohol.</description>
+</ModMetaData>
